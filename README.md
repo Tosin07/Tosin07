@@ -1,8 +1,8 @@
-Hi, I'm Tosin- 👋 Hi, I’m @Tosin07
--I'm currently interested in Frontend development 👀 I’m interested in ...
--Currently learning React 🌱 I’m currently learning ...
--I'm looking to work with many other developers 💞️ I’m looking to collaborate on ...
-- You can reach me on tosinogundele98@gmail.com📫 How to reach me ...
+Hi, I'm Tosin
+-I'm currently interested in Frontend development 
+-Currently learning React
+-I'm looking to work with many other developers 
+- You can reach me on tosinogundele98@gmail.com
 
 <!---
 Tosin07/Tosin07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
