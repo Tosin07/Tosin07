@@ -1,7 +1,5 @@
-Hi, I'm Tosin
--I'm currently interested in Frontend development 
--Currently learning React
--I'm looking to work with many other developers 
+Hi, I'm Tosin. I'm invested in Frontend development; currently learning React to that effect. I'm looking to work with many other developers to facilitate growth in said field. 
+
 - You can reach me on tosinogundele98@gmail.com
 
 <!---
