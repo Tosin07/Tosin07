@@ -1,4 +1,4 @@
-Hi, I'm Tosin. I'm invested in Frontend development; currently learning ReactJS to that effect. I'm looking to work with other developers to facilitate growth in said field. 
+Hi, I'm Tosin. I'm invested in Frontend development; currently learning ReactJS to that effect. I'm looking to work with other developers to facilitate growth in said field. I'm also into Data Analytics, so whichever comes first.
 
 - You can reach me on tosinogundele98@gmail.com
 
